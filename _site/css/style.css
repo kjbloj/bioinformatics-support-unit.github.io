@@ -53,7 +53,7 @@
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 600;
-		text-transform: uppercase;
+		//text-transform: uppercase;
 		color: #888;
 	}
 
@@ -87,13 +87,13 @@
 
 		a:hover
 		{
-			color: #ed786a;
+			color: #003f72;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 
 		a:hover strong
 		{
-			color: #ed786a;
+			color: #003f72;
 		}
 
 	strong, b
@@ -472,7 +472,7 @@
 		{
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #003f72;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
@@ -501,7 +501,7 @@
 
 			.button:active
 			{
-				background: #ed786a;
+				background: #003f72;
 			}
 
 			.button-alt
@@ -1041,7 +1041,7 @@
 		{
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #003f72;
 			text-shadow: 0.05em 0.075em 0 rgba(0,0,0,0.1);
 		}
 

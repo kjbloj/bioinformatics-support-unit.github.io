@@ -1,10 +1,19 @@
 ---
-layout: page
-title : Archive
-header : Post Archive
-group: navigation
+layout: no-sidebar
+title: "Archive | @techieshark's blog"
 ---
-{% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+<ul class="divided">
+    {% for post in site.posts %}
+    <li>
+        <!-- Excerpt -->
+        <article class="is-excerpt">
+          <header>
+            <span class="date">{{ post.date | date_to_string }}</span>
+            <h3><a href="#">{{ post.title }}</a></h3>
+          </header>
+          <p>{{ post.excerpt }}</p>
+        </article>
+    </li>
+    {% endfor %}
+</ul>

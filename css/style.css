@@ -496,7 +496,8 @@
 
 			.button:hover
 			{
-				background: #fd887a;
+				//background: #fd887a;
+				background: #64a0c8;
 			}
 
 			.button:active
@@ -1118,7 +1119,9 @@
 
 					#nav > ul > li:hover > a > span
 					{
-						color: #ED786A;
+						//color: #ED786A;
+						//color: #003f72;
+						color: #64a0c8;
 					}
 
 			#nav > ul > li.active
@@ -1131,13 +1134,17 @@
 
 					#nav > ul > li.active > a:before
 					{
-						background: #ED786A;
+						//background: #ED786A;
+						//background: #003f72;
+						background: #64a0c8;
 						color: #fff;
 					}
 
 					#nav > ul > li.active > a > span
 					{
-						color: #ED786A;
+						//color: #ED786A;
+						//color: #003f72;
+						color: #64a0c8;
 					}
 
 /*********************************************************************************/

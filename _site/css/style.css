@@ -89,7 +89,7 @@
 
 	body,input,textarea,select
 	{
-		font-family: 'Helvetica Neue';
+		font-family: 'Helvetica Neue' 'Roboto' 'Arimo';
 		font-weight: 300;
 		color: #777;
 	}

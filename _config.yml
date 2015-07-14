@@ -1,6 +1,6 @@
 # Note! If you're using jekyll serve --watch to run a server, you'll need to restart after any changes here
 name: "Bioinformatics Support Unit"
-description: "Cutting-edge bioinformatics research and support."
+description: "Cutting-edge bioinformatics research and support"
 highlighter: pygments
 baseurl: ""
 #excerpt_separator: "<!--more-->"

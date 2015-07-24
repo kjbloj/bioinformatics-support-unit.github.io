@@ -57,7 +57,7 @@ jQuery(function() {
 	jQuery.browser={};(function(){jQuery.browser.msie=false;jQuery.browser.version=0;if(navigator.userAgent.match(/MSIE ([0-9]+)\./)){jQuery.browser.msie=true;jQuery.browser.version=RegExp.$1;}})();
 
 	// Dropdowns
-		$('#nav > ul').dropotron({ 
+		$('#nav > ul').dropotron({
 			offsetX: -2,
 			offsetY: -8,
 			mode: 'fade',

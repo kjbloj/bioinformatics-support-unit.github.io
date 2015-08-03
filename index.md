@@ -46,12 +46,9 @@ The Bioinformatics Support Unit provides data analysis and experimental design s
 
 Finding us
 
-The Bioinformatics Support Unit at Newcastle University is based in the Medical School.
+The Bioinformatics Support Unit at Newcastle University is based in the Medical School (William Leech Building).
 
 Our office and common user area can be found on the second floor of the Leech Building in room M2046/M2046A.  Or you can call us on 0191 208 7253.
 
-Our mailing address is:
-
-Bioinformatics Support Unit,Faculty of Medical Sciences, Framlington Place,Newcastle University, Newcastle, NE2 4HH
 
   [1]: mailto:bsu-support@ncl.ac.uk

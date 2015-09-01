@@ -19,6 +19,8 @@ Her main areas of research interests include:
 
 #####Publications
 
+Gabriel AS, Lafta FM, Schwalbe EC, Nakjang S, Cockell SJ, Iliasova A, Enshaei A, Schwab C, Rand V, Clifford SC, Kinsey SE, Mitchell CD, Vora A, Harrison CJ, Moorman AV, Strathdee G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26237075?dopt=Abstract" target="_blank">Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.</a> <i>Epigenetics.</i> vol <b>3</b> doi: 10.1080/15592294.2015.1061174 (2015).
+
 Heinz E, Hacker C, Dean P, Mifsud J, Goldberg AV, Williams TA, <b>Nakjang S</b>, Gregory A, Hirt RP, Lucocq JM, Kunji ER, Embley TM. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25474405?dopt=Abstract" target="_blank">Plasma Membrane-Located Purine Nucleotide Transport Proteins Are Key Components for Host Exploitation by Microsporidian Intracellular Parasites.</a> <i>PLoS Pathog.</i> vol <b>10</b> doi: 10.1371 (2014).
 
 Flanagan K, Cockell S, Harwood C, Hallinan J, <b>Nakjang S</b>, Lawry B, Wipat A. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24980620?dopt=Abstract" target="_blank">A distributed computational search strategy for the identification of diagnostics targets: Application to finding aptamer targets for methicillin-resistant staphylococci.</a> <i>J Integr Bioinform.</i> vol <b>11</b> doi: 10.2390 (2014).

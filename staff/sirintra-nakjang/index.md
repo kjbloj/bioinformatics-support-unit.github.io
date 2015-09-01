@@ -18,8 +18,11 @@ Her main areas of research interests include:
 </ul>
 
 #####Publications
+Jones D, Wade M, <b>Nakjang S</b>, Chaytor L, Grey J, Robson CN, Gaughan L. <a href="http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5b%5d=4927&author-preview=1" target="_blank">FOXA1 regulates androgen receptor variant activity in models of castrate-resistant prostate cancer.</a> <i>Oncotarget.</i>  (2015).
 
-Gabriel AS, Lafta FM, Schwalbe EC, Nakjang S, Cockell SJ, Iliasova A, Enshaei A, Schwab C, Rand V, Clifford SC, Kinsey SE, Mitchell CD, Vora A, Harrison CJ, Moorman AV, Strathdee G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26237075?dopt=Abstract" target="_blank">Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.</a> <i>Epigenetics.</i> vol <b>3</b> doi: 10.1080/15592294.2015.1061174 (2015).
+O'Neill D, Jones D, Wade M, Grey J, <b>Nakjang S</b>, Guo W, Cork D, Davies BR, Wedge SR, Robson CN, Gaughan L. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26267320?dopt=Abstract" target="_blank">Development and exploitation of a novel mutant androgen receptor modelling strategy to identify new targets for advanced prostate cancer therapy.</a> <i>Oncotarget.</i>  (2015).
+
+Gabriel AS, Lafta FM, Schwalbe EC, <b>Nakjang S</b>, Cockell SJ, Iliasova A, Enshaei A, Schwab C, Rand V, Clifford SC, Kinsey SE, Mitchell CD, Vora A, Harrison CJ, Moorman AV, Strathdee G. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26237075?dopt=Abstract" target="_blank">Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.</a> <i>Epigenetics.</i> vol <b>3</b> doi: 10.1080/15592294.2015.1061174 (2015).
 
 Heinz E, Hacker C, Dean P, Mifsud J, Goldberg AV, Williams TA, <b>Nakjang S</b>, Gregory A, Hirt RP, Lucocq JM, Kunji ER, Embley TM. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25474405?dopt=Abstract" target="_blank">Plasma Membrane-Located Purine Nucleotide Transport Proteins Are Key Components for Host Exploitation by Microsporidian Intracellular Parasites.</a> <i>PLoS Pathog.</i> vol <b>10</b> doi: 10.1371 (2014).
 

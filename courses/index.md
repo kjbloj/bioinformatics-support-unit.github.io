@@ -23,10 +23,10 @@ No prior programming knowledge of any kind is assumed.
 <strong>Course structure:</strong>
 
 This course will be structured as follows:
-<ul>
+<ul class="style1">
 	<li>Day 1: Introduction to R</li>
 
-<ul>
+<ul class="style1" style="list-style-type: circle;">
 	<li>Standard R data types</li>
         <li>Manipulating data</li>
         <li>Base graphics</li>
@@ -34,7 +34,7 @@ This course will be structured as follows:
 
 	<li>Day 2: Bioconductor input/output</li>
 
-<ul>
+<ul class="style1" style="list-style-type: circle;">
         <li>Object oriented programming in R</li>
 
 	<li>What is Bioconductor?</li>
@@ -46,13 +46,13 @@ This course will be structured as follows:
 </ul>
 	<li>Day 3: Finding differentially expressed genes</li>
 
-<ul>
+<ul class="style1" style="list-style-type: circle;">
         <li>Data quality checks</li>
 	<li>Microarray data analysis with Limma</li>
 </ul>
 
 	<li>Day 4: Functional Analysis and Data Integration</li>
-<ul>
+<ul class="style1" style="list-style-type: circle;">
 	<li>Clustering</li>
 	<li>GO stats</li>
 	<li>Biomart</li>
@@ -60,7 +60,7 @@ This course will be structured as follows:
 
 </ul>
        <li>Day 5: RNA-Seq and Analysis of participants' data</li>
-<ul>
+<ul class="style1" style="list-style-type: circle;">
 	<li>Introduction to RNA-Seq</li>
 	<li>Analysis with DESeq2 and Limma Voom</li>
 
@@ -72,7 +72,7 @@ This course will be structured as follows:
 
 
 <strong>Instructors</strong>
-<ul>
+<ul class="style1">
 	<li>Dr Colin Gillespie, Statistics Lecturer in the School of Mathematics & Statistics.</li>
 
 	<li>Dr Simon Cockell, Newcastle Bioinformatics Support Unit</li>

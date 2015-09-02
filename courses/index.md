@@ -1,14 +1,3 @@
-<!--
-We currently have one course scheduled, click on the links below, or scroll down for more information.
-
-<ul>
-
-	<li><a href="#bioc">Bioconductor</a> (2nd - 6th February 2015)</li>
-        <li><a href="#cli">Command Line Bioinformatics and High Throughput Sequencing Analysis</a> - June 30th - July 2nd 2015</li>
-
-</ul>
--->
-
 See the foot of the page for <a href="#general">general information</a> such as pricing and how to book.
 
 <h3><a id="bioc"></a>Bioconductor</h3>
@@ -85,11 +74,8 @@ This course will be structured as follows:
 
 
 <h3><a id="cli"></a>Command Line Bioinformatics and High-throughput Sequencing Analysis</h3>
-<!--h4>June 30th - July 2nd 2015</h4-->
 
-Details of the next Command Line & NGS course will be finalised in due course. <!--click here to register your interest.-->
-
-<!--a href="http://forms.ncl.ac.uk/view.php?id=7869">Click here to book</a>.-->
+Details of the next Command Line & NGS course will be finalised in due course.
 
 <p>Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
 
@@ -144,18 +130,6 @@ Costs for Newcastle University Faculty of Medical Sciences attendees are subsidi
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">External - Commercial</th>
 </tr>
 
-
-<!--tr style="text-align: center; padding-left: 20px;">
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">High Throughput
-Sequence Analysis<br/>
-</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://forms.ncl.ac.uk/view.php?id=7869">Book (£100)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://forms.ncl.ac.uk/view.php?id=7869">Book (£300)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://forms.ncl.ac.uk/view.php?id=7869">Book (£360)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://forms.ncl.ac.uk/view.php?id=7869">Book (£450)</a></strong></span></td>
-</tr-->
-
 <tr style="text-align: center; padding-left: 20px;">
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">Bioconductor</td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">5 days</td>
@@ -174,32 +148,8 @@ Sequence Analysis<br/>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
 </tr>
-
-<!--tr style="text-align: center; padding-left: 20px;">
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">Bioconductor</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">5 days</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-</tr-->
-
 </tbody>
 </table>
 Cancellations
 
 Cancellations up to 14 days before the course start date will incur a 30 per cent cancellation fee. For later cancellations, or non attendance, the full course fee will be charged.
-
-<!--
-<h3><a id="ensembl"></a>Ensembl</h3>
-The <a href="http://www.ensembl.org/">Ensembl</a> project produces genome databases for vertebrates and other eukaryotic species, and makes this information freely available online. This two-day course, run by Denise Carvalho-Silva and Thomas Juettemann from the European Bioinformatics Institute (EBI) will introduce attendees to the Ensembl genome browser and a number of associated tools for dealing with genomic scale data.  Amongst other things the course can cover:
-<ul>
-	<li>Introduction to Ensembl: origin, goals and organization of the Ensembl project.</li>
-	<li>Worked example: guided tour of the most important pages of the Ensembl website.</li>
-	<li>Data mining with BioMart: retrieving genomic information using a web interface (no programming required).</li>
-	<li>Comparative genomics and proteomics: orthologues, protein families, whole genome alignments and syntenic regions.</li>
-	<li>Variation: SNPs, CNVs, VEP, phenotypes.</li>
-	<li>Regulation: ENCODE data hub, and annotation of regulatory elements based on ChIP-Seq, DNase1-Seq, FAIRE-Seq and TFBS.</li>
-</ul>
-<a href="http://bsu.ncl.ac.uk/support/courses/#general">Booking</a>
--->

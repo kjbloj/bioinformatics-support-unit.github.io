@@ -1,7 +1,3 @@
----
-layout: default
-title: "Courses"
----
 <!--
 We currently have one course scheduled, click on the links below, or scroll down for more information.
 
@@ -31,36 +27,51 @@ This course will be structured as follows:
 	<li>Day 1: Introduction to R</li>
 
 <ul>
-	<li>Standard R data types, base graphics, Manipulating data</li>
+	<li>Standard R data types</li>
+        <li>Manipulating data</li>
+        <li>Base graphics</li>
 </ul>
 
 	<li>Day 2: Bioconductor input/output</li>
 
 <ul>
+        <li>Object oriented programming in R</li>
+
 	<li>What is Bioconductor?</li>
 
 	<li>Installing packages</li>
 
 	<li>Loading Affymetrix and Illumina data into R</li>
 
-	<li>Data quality checks</li>
 </ul>
-	<li>Day 3:</li>
+	<li>Day 3: Finding differentially expressed genes</li>
 
 <ul>
-	<li>Object oriented programming in R</li>
-
-	<li>Microarray data analysis including Limma, RankProd</li>
+        <li>Data quality checks</li>
+	<li>Microarray data analysis with Limma</li>
 </ul>
 
-	<li>Day 4: Clustering, ArrayExpress, GO stats</li>
+	<li>Day 4: Functional Analysis and Data Integration</li>
+<ul>
+	<li>Clustering</li>
+	<li>GO stats</li>
+	<li>Biomart</li>
 
-	<li>Day 5: RNAseq and Analysis of participants' data</li>
+
+</ul>
+       <li>Day 5: RNA-Seq and Analysis of participants' data</li>
+<ul>
+	<li>Introduction to RNA-Seq</li>
+	<li>Analysis with DESeq2 and Limma Voom</li>
 
 </ul>
 
 
-<strong>Presenters</strong>
+
+</ul>
+
+
+<strong>Instructors</strong>
 <ul>
 	<li>Dr Colin Gillespie, Statistics Lecturer in the School of Mathematics & Statistics.</li>
 
@@ -70,7 +81,7 @@ This course will be structured as follows:
 
 </ul>
 
-<a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place by filling in the form.</a>
+<a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place here.</a>
 
 
 <h3><a id="cli"></a>Command Line Bioinformatics and High-throughput Sequencing Analysis</h3>

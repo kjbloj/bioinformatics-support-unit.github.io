@@ -54,27 +54,21 @@ This course will be structured as follows:
 
 
 </ul>
-       <li>Day 5: RNA-Seq and Analysis of participants' data</li>
+       <li>Day 5: RNA-Seq and Analysis of participants&#8217; data</li>
 <ul class="style1" style="list-style-type: circle;">
 	<li>Introduction to RNA-Seq</li>
 	<li>Analysis with DESeq2 and Limma Voom</li>
 
 </ul>
-
-
-
 </ul>
 
 
 **Instructors**
 
 <ul class="style1">
-	<li>Dr Colin Gillespie, Statistics Lecturer in the School of Mathematics & Statistics.</li>
-
+	<li>Dr Colin Gillespie, Statistics Lecturer in the School of Mathematics &amp; Statistics.</li>
 	<li>Dr Simon Cockell, Newcastle Bioinformatics Support Unit</li>
-
 	<li>John Casement, Newcastle Bioinformatics Support Unit</li>
-
 </ul>
 
 <a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place here.</a>
@@ -95,7 +89,7 @@ Many powerful bioinformatics applications do not come packaged with an easy-to-u
 	<ul class="style1" style="list-style-type: circle;">
 		<li>What is Linux?</li>
 		<li>What is it good for?</li>
-		<li>An introduction to `ls`, `cp`, `man`, `grep`, and many other tools that we'll build upon throughout the rest of the course</li>
+		<li>An introduction to `ls`, `cp`, `man`, `grep`, and many other tools that we&#8217;ll build upon throughout the rest of the course</li>
 	</ul>
 	<li>BLAST</li>
 	<li>Multiple Sequence Alignments</li>
@@ -109,7 +103,7 @@ Many powerful bioinformatics applications do not come packaged with an easy-to-u
 	<li>Common file formats</li>
 	<ul class="style1" style="list-style-type: circle;">
 		<li>FASTQ</li>
-		<li>SAM & BAM</li>
+		<li>SAM &amp; BAM</li>
 		<li>BED</li>
 	</ul>
 	<li>Quality Control</li>

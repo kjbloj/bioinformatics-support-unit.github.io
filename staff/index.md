@@ -1,4 +1,4 @@
 ---
 layout: default
-title: "Bioinformatics Support Unit"
+title: "Staff"
 ---

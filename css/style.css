@@ -1099,7 +1099,7 @@
 
 	#header
 	{
-		background-image: url("/images/BSU_header_notxt.png");
+		background-image: url("../images/BSU_header_notxt.png");
 		background-repeat:no-repeat;
 		background-position: center center;
 		position: relative;
@@ -1337,19 +1337,19 @@
     }
 
     .ch-img-1 {
-    	background-image: url('/images/network.png');
+    	background-image: url('../images/network.png');
     }
 
     .ch-img-2 {
-    	background-image: url('/images/book.png');
+    	background-image: url('../images/book.png');
     }
 
     .ch-img-3 {
-    	background-image: url('/images/bulb.png');
+    	background-image: url('../images/bulb.png');
     }
 
     .ch-img-4 {
-    	background-image: url('/images/courses.png');
+    	background-image: url('../images/courses.png');
     }
 
 

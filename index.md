@@ -5,37 +5,37 @@ title: "Home"
 
 <ul class="ch-grid">
   <li>
-<a href="/expertise">
+<a href="{{ site.baseurl }}/expertise">
     <div class="ch-item ch-img-1">
       <div class="ch-info">
-        <a href="/expertise"><h3>Expertise</h3></a>
+        <a href="{{ site.baseurl }}/expertise"><h3>Expertise</h3></a>
       </div>
     </div>
 </a>
    </li>
   <li>
-<a href="/publications">
+<a href="{{ site.baseurl }}/publications">
     <div class="ch-item ch-img-2">
       <div class="ch-info">
-        <a href="/publications"><h3>Publications</h3></a>
+        <a href="{{ site.baseurl }}/publications"><h3>Publications</h3></a>
       </div>
     </div>
 </a>
    </li>
   <li>
-<a href="/services">
+<a href="{{ site.baseurl }}/services">
     <div class="ch-item ch-img-3">
       <div class="ch-info">
-        <a href="/services"><h3>Services</h3></a>
+        <a href="{{ site.baseurl }}/services"><h3>Services</h3></a>
       </div>
     </div>
 </a>
    </li>
   <li>
-<a href="/courses">
+<a href="{{ site.baseurl }}/courses">
     <div class="ch-item ch-img-4">
       <div class="ch-info">
-        <a href="/courses"><h3>Courses</h3></a>
+        <a href="{{ site.baseurl }}/courses"><h3>Courses</h3></a>
       </div>
     </div>
 </a>

@@ -1,6 +1,8 @@
 Bioinformatics Support Unit Website
 ===================================
 
+Update 2015-10-28. Overall construction complete.
+
 **Pages Under Construction**
 
 This will be the replacement for <http://bsu.ncl.ac.uk/support>.

@@ -34,7 +34,7 @@ The BSU has expertise in the following areas, and software packages:
 * Custom pipeline creation
 * Custom software engineering
 
-As well as these analysis services, we also provide training courses and bespoke 1-to-1 training for researchers and industry. We provide an introduction to Linux/Next-Generation Sequencing course at least annually (currently this course runs approximately every nine months). We also run a Bioconductor course in conjunction with Colin Gillespie. More courses will be added to our portfolio in the coming year. Full details available on the ["Courses" page](/courses) of this site.
+As well as these analysis services, we also provide training courses and bespoke 1-to-1 training for researchers and industry. We provide an introduction to Linux/Next-Generation Sequencing course at least annually (currently this course runs approximately every nine months). We also run a Bioconductor course in conjunction with Colin Gillespie. More courses will be added to our portfolio in the coming year. Full details available on the ["Courses" page]({{ site.baseurl }}/courses) of this site.
 
 To contact a member of the BSU directly, please contact [Dr Simon Cockell](mailto:simon.cockell@ncl.ac.uk) (Unit Head), or see the individual staff pages, listed below.
 
@@ -49,4 +49,4 @@ To contact a member of the BSU directly, please contact [Dr Simon Cockell](mailt
 * Jannetta Steyn, ESO (IGM)
 * Andrew Skelton, Musculoskeletal Research Group analyst
 
-The Bioinformatics Support Unit is one of a number of facilities available for research and commercial use at Newcastle University. A full list of University Research Facilities can be found on the Services for Business web pages.
+The Bioinformatics Support Unit is one of a number of facilities available for research and commercial use at Newcastle University. A full list of [University Research Facilities](http://www.ncl.ac.uk/business/facilities/research/index.htm) can be found on the Services for Business web pages.

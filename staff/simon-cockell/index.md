@@ -36,6 +36,8 @@ To contact Simon, email [simon.cockell@newcastle.ac.uk][4].
 
 ###Publications
 
+<p>Manville, Catriona M., Kayleigh Smith, Zbyslaw Sondka, Holly Rance, <b>Simon Cockell</b>, Ian G. Cowell, Ka Cheong Lee, Nicholas J. Morris, Kay Padget, Graham H. Jackson, and Caroline A. Austin. 2015. &#8220;Genome-Wide ChIP-Seq Analysis of Human TOP2B Occupancy in MCF7 Breast Cancer Epithelial Cells.&#8221; <em>Biology Open</em>, October, bio.014308. doi:<a href="http://dx.doi.org/10.1242/bio.014308">10.1242/bio.014308</a>.</p>
+
 <p>Dubarry, Marion, Conor Lawless, A. Peter Banks, <b>Simon Cockell</b>, and David Lydall. 2015. &#8220;Genetic Networks Required to Coordinate Chromosome Replication by DNA Polymerases &#913;, &#916;, and &#917; in Saccharomyces Cerevisiae.&#8221; <em>G3: GenesGenomesGenetics</em>, August, g3.115.021493. doi:<a href="http://dx.doi.org/10.1534/g3.115.021493">10.1534/g3.115.021493</a>.</p>
 
 <p>Gabriel, Alem S., Fadhel M. Lafta, Edward C. Schwalbe, Sirintra Nakjang, <b>Simon J. Cockell</b>, Alice Iliasova, Amir Enshaei, Claire Schwab, Vikki Rand, Steven C. Clifford, Sally E. Kinsey, Chris D. Mitchell, Ajay Vora, Christine J. Harrison, Anthony V. Moorman, and Gordon Strathdee. 2015. &#8220;Epigenetic Landscape Correlates with Genetic Subtype but Does Not Predict Outcome in Childhood Acute Lymphoblastic Leukemia.&#8221; <em>Epigenetics</em> 10 (8): 717&#8211;26. doi:<a href="http://dx.doi.org/10.1080/15592294.2015.1061174">10.1080/15592294.2015.1061174</a>.</p>

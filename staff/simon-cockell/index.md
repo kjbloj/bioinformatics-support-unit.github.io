@@ -36,6 +36,12 @@ To contact Simon, email [simon.cockell@newcastle.ac.uk][4].
 
 ###Publications
 
+<p>Mullen, Joseph, <b>Simon J. Cockell</b>, Hannah Tipney, Peter M. Woollard, and Anil Wipat. 2016. &#8220;Mining Integrated Semantic Networks for Drug Repositioning Opportunities.&#8221; <em>PeerJ</em> 4 (January): e1558. doi:<a href="http://dx.doi.org/10.7717/peerj.1558">10.7717/peerj.1558</a>.</p>
+
+<p>James, Katherine, Shereen Al-Ali, Jessica Tarn, <b>Simon J. Cockell</b>, Colin S. Gillespie, Victoria Hindmarsh, James Locke, Sheryl Mitchell, Dennis Lendrem, Simon Bowman, Elizabeth Price, Colin T. Pease, Paul Emery, Peter Lanyon, John A. Hunter, Monica Gupta, Michele Bombardieri, Nurhan Sutcliffe, Costantino Pitzalis, John McLaren, Annie Cooper, Marian Regan, Ian Giles, David Isenberg, Vadivelu Saravanan, David Coady, Bhaskar Dasgupta, Neil McHugh, Steven Young-Min, Robert Moots, Nagui Gendi, Mohammed Akil, Bridget Griffiths, UK Primary Sj&#246;gren&#8217;s Syndrome registry, Anil Wipat, Julia Newton, David E. Jones, John Isaacs, Jennifer Hallinan, and Wan-Fai Ng. 2015. &#8220;A Transcriptional Signature of Fatigue Derived from Patients with Primary Sj&#246;gren&#8217;s Syndrome.&#8221; <em>PloS One</em> 10 (12): e0143970. doi:<a href="http://dx.doi.org/10.1371/journal.pone.0143970">10.1371/journal.pone.0143970</a>.</p>
+
+<p>Hunter, J. E., J. A. Butterworth, B. Zhao, H. Sellier, K. J. Campbell, H. D. Thomas, C. M. Bacon, <b>S. J. Cockell</b>, B. E. Gewurz, and N. D. Perkins. 2015. &#8220;The NF-&#922;B Subunit c-Rel Regulates Bach2 Tumour Suppressor Expression in B-Cell Lymphoma.&#8221; <em>Oncogene</em>, November. doi:<a href="http://dx.doi.org/10.1038/onc.2015.399">10.1038/onc.2015.399</a>.</p>
+
 <p>Manville, Catriona M., Kayleigh Smith, Zbyslaw Sondka, Holly Rance, <b>Simon Cockell</b>, Ian G. Cowell, Ka Cheong Lee, Nicholas J. Morris, Kay Padget, Graham H. Jackson, and Caroline A. Austin. 2015. &#8220;Genome-Wide ChIP-Seq Analysis of Human TOP2B Occupancy in MCF7 Breast Cancer Epithelial Cells.&#8221; <em>Biology Open</em>, October, bio.014308. doi:<a href="http://dx.doi.org/10.1242/bio.014308">10.1242/bio.014308</a>.</p>
 
 <p>Dubarry, Marion, Conor Lawless, A. Peter Banks, <b>Simon Cockell</b>, and David Lydall. 2015. &#8220;Genetic Networks Required to Coordinate Chromosome Replication by DNA Polymerases &#913;, &#916;, and &#917; in Saccharomyces Cerevisiae.&#8221; <em>G3: GenesGenomesGenetics</em>, August, g3.115.021493. doi:<a href="http://dx.doi.org/10.1534/g3.115.021493">10.1534/g3.115.021493</a>.</p>

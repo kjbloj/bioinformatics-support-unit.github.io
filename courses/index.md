@@ -4,9 +4,54 @@ title: "Courses"
 ---
 See the foot of the page for <a href="#general">general information</a> such as pricing and how to book.
 
+###<a id="cli"></a>Command Line Bioinformatics and High-throughput Sequencing Analysis
+
+**Spring 2016**
+
+**Details of the next Command Line & NGS course will be finalised in due course.**
+
+Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
+
+###Course Schedule
+
+####Day 1
+
+<ul class="style1">
+	<li>Linux Basics</li>
+	<ul class="style1" style="list-style-type: circle;">
+		<li>What is Linux?</li>
+		<li>What is it good for?</li>
+		<li>An introduction to `ls`, `cp`, `man`, `grep`, and many other tools that we&#8217;ll build upon throughout the rest of the course</li>
+	</ul>
+	<li>BLAST</li>
+	<li>Multiple Sequence Alignments</li>
+	<li>HMMER</li>
+</ul>
+
+####Day 2
+
+<ul class="style1">
+	<li>Introduction to sequencing technologies</li>
+	<li>Common file formats</li>
+	<ul class="style1" style="list-style-type: circle;">
+		<li>FASTQ</li>
+		<li>SAM &amp; BAM</li>
+		<li>BED</li>
+	</ul>
+	<li>Quality Control</li>
+	<li><em>De novo</em> High Throughput Sequence Assembly</li>
+	<li>High Throughput Sequence Alignment (mapping to a reference genome)</li>
+</ul>
+
+####Day 3
+<ul class="style1">
+	<li>Tools for RNA-Seq Analysis</li>
+	<li>Batch processing with High-Performance Computing</li>
+</ul>
+
 ###<a id="bioc"></a>Bioconductor
 
-####November 23rd - 27th 2015
+####Date TBC
 
 **Course outline**:
 
@@ -71,52 +116,7 @@ This course will be structured as follows:
 	<li>John Casement, Newcastle Bioinformatics Support Unit</li>
 </ul>
 
-<a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place here.</a>
-
-
-###<a id="cli"></a>Command Line Bioinformatics and High-throughput Sequencing Analysis
-
-**Details of the next Command Line & NGS course will be finalised in due course.**
-
-Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
-
-###Course Schedule
-
-####Day 1
-
-<ul class="style1">
-	<li>Linux Basics</li>
-	<ul class="style1" style="list-style-type: circle;">
-		<li>What is Linux?</li>
-		<li>What is it good for?</li>
-		<li>An introduction to `ls`, `cp`, `man`, `grep`, and many other tools that we&#8217;ll build upon throughout the rest of the course</li>
-	</ul>
-	<li>BLAST</li>
-	<li>Multiple Sequence Alignments</li>
-	<li>HMMER</li>
-</ul>
-
-####Day 2
-
-<ul class="style1">
-	<li>Introduction to sequencing technologies</li>
-	<li>Common file formats</li>
-	<ul class="style1" style="list-style-type: circle;">
-		<li>FASTQ</li>
-		<li>SAM &amp; BAM</li>
-		<li>BED</li>
-	</ul>
-	<li>Quality Control</li>
-	<li><em>De novo</em> High Throughput Sequence Assembly</li>
-	<li>High Throughput Sequence Alignment (mapping to a reference genome)</li>
-</ul>
-
-
-####Day 3
-<ul class="style1">
-	<li>Tools for RNA-Seq Analysis</li>
-	<li>Batch processing with High-Performance Computing</li>
-</ul>
+<!--a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place here.</a-->
 
 
 <a id='general'></a>
@@ -140,14 +140,7 @@ Costs for Newcastle University Faculty of Medical Sciences attendees are subsidi
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">External - Commercial</th>
 </tr>
 
-<tr style="text-align: center; padding-left: 20px;">
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">Bioconductor</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">5 days</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£600)</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£800)</a></strong></span></td>
-</tr>
+
 <tr style="text-align: center; padding-left: 20px;">
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">High Throughput
 Sequence Analysis<br/>
@@ -158,6 +151,28 @@ Sequence Analysis<br/>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
 </tr>
+
+<tr style="text-align: center; padding-left: 20px;">
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">Bioconductor</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">5 days</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
+	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
+	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span-->
+</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
+	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
+	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span-->
+</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
+	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
+	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£600)</a></strong></span-->
+</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
+	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
+	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£800)</a></strong></span-->
+</td>
+</tr>
+
 </tbody>
 </table>
 

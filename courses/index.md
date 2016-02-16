@@ -4,11 +4,14 @@ title: "Courses"
 ---
 See the foot of the page for <a href="#general">general information</a> such as pricing and how to book.
 
-###<a id="cli"></a>Command Line Bioinformatics and High-throughput Sequencing Analysis
+###<a id="cli">Command Line Bioinformatics and High-throughput Sequencing Analysis</a>
 
-**Spring 2016**
+**April 12th - 14th 2016**
 
-**Details of the next Command Line & NGS course will be finalised in due course.**
+This course is supported by a BBSRC Strategic Training Award for Research Skills. It is therefore offered **free of charge** to Newcastle University and BBSRC-funded researchers.
+
+<img src="{{ site.baseurl }}/images/STARS.jpg" style="display: block; margin-left: auto; margin-right: auto">
+
 
 Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
 
@@ -49,9 +52,9 @@ Many powerful bioinformatics applications do not come packaged with an easy-to-u
 	<li>Batch processing with High-Performance Computing</li>
 </ul>
 
-###<a id="bioc"></a>Bioconductor
+###<a id="bioc">Bioconductor</a>
 
-####Date TBC
+####May 16th - 20th 2016
 
 **Course outline**:
 
@@ -123,19 +126,16 @@ This course will be structured as follows:
 <h3>Booking</h3>
 Spaces can be reserved for the High Throughput Sequence Analysis course by clicking on the links in the table below, spaces on all other courses and for external people can be reserved by emailing <a href="mailto:simon.cockell@ncl.ac.uk">Simon Cockell</a>. The Bioconductor course is booked via the school of Mathematics and Statistics.  All courses are subject to a fee.
 
-Costs for Newcastle University Faculty of Medical Sciences attendees are subsidised, except for the Bioconductor course (which is run in conjunction with the school of Mathematics and Statistics).
-
 <table style="font-family: Arial, Helvetica, sans-serif; color: #666; font-size: 12px; text-shadow: 1px 1px 0px #fff; background: #eaebec; margin: 20px; border: #ccc 1px solid; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px #d1d1d1; -webkit-box-shadow: 0 1px 2px #d1d1d1; box-shadow: 0 1px 2px #d1d1d1;">
 <tbody>
 <tr>
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #ebebeb; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);" colspan="2"></th>
-<th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #ebebeb; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);" colspan="4">Booking links (Cost)</th>
+<th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #ebebeb; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);" colspan="3">Booking links (Cost)</th>
 </tr>
 <tr>
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">Course</th>
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">Length</th>
-<th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">Newcastle University - FMS</th>
-<th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">Newcastle University - Other</th>
+<th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">Newcastle University</th>
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">External - Academic/NHS/Charity</th>
 <th style="padding: 21px 25px 22px 25px; border-top: 1px solid #fafafa; border-bottom: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #ededed,  #ebebeb);">External - Commercial</th>
 </tr>
@@ -145,31 +145,23 @@ Costs for Newcastle University Faculty of Medical Sciences attendees are subsidi
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">High Throughput
 Sequence Analysis<br/>
 </td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>Date tba</strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days (12th - 14th April 2016)</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>FREE<br/><a href='http://forms.ncl.ac.uk/view.php?id=9630'>Book Here</a></strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£360<br/><a href='http://forms.ncl.ac.uk/view.php?id=9630'>Book Here</a></strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£450<br/><a href='http://forms.ncl.ac.uk/view.php?id=9630'>Book Here</a></strong></span></td>
 </tr>
 
 <tr style="text-align: center; padding-left: 20px;">
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">Bioconductor</td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">5 days</td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
-	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
-	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span-->
+	<span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span>
 </td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
-	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
-	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£520)</a></strong></span-->
+	<span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£600)</a></strong></span>
 </td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
-	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
-	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£600)</a></strong></span-->
-</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">
-	<span style="text-decoration: underline;"><strong>Date tba</strong></span>
-	<!--span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£800)</a></strong></span-->
+	<span style="text-decoration: underline;"><strong><a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book (£800)</a></strong></span>
 </td>
 </tr>
 
@@ -178,4 +170,10 @@ Sequence Analysis<br/>
 
 ####Cancellations
 
+#####Command Line
+The Command Line course is free for Newcastle University staff and BBSRC-funded researchers. However, in the event of a cancellation less than one week from the start of the course, a £100 fee will be charged.
+
+For all other participants, a cancellation up to one week before the course start date will incur a 30 per cent cancellation fee. For later cancellations, or non attendance, the full course fee will be charged.
+
+#####Bioconductor
 Cancellations up to 14 days before the course start date will incur a 30 per cent cancellation fee. For later cancellations, or non attendance, the full course fee will be charged.

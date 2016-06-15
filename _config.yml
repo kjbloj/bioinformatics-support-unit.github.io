@@ -2,7 +2,7 @@
 name: "Bioinformatics Support Unit"
 description: "Cutting-edge bioinformatics research and support"
 highlighter: pygments
-baseurl: "/support"
+baseurl: ""
 #excerpt_separator: "<!--more-->"
 
 owner: "Simon Cockell"

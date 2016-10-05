@@ -145,7 +145,7 @@ Spaces can be reserved for the High Throughput Sequence Analysis course by click
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">High Throughput
 Sequence Analysis<br/>
 </td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days (27th - 29th September 2016)</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days (22nd - 24th November 2016)</td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>FREE<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£360<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£450<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>

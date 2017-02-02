@@ -6,7 +6,7 @@ See the foot of the page for <a href="#general">general information</a> such as 
 
 ###<a id="cli">Command Line Bioinformatics and High-throughput Sequencing Analysis</a>
 
-**November 22nd - 24th 2016**
+**April 4th - 6th 2017**
 
 This course is supported by a BBSRC Strategic Training Award for Research Skills. It is therefore offered **free of charge** to Newcastle University and BBSRC-funded researchers.
 
@@ -145,10 +145,10 @@ Spaces can be reserved for the High Throughput Sequence Analysis course by click
 <td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">High Throughput
 Sequence Analysis<br/>
 </td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days (22nd - 24th November 2016)</td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>FREE<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£360<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>
-<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£450<br/><a href='http://forms.ncl.ac.uk/view.php?id=10981'>Book Here</a></strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);">3 days (4th - 6th April 2017)</td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>FREE<br/><a href='http://forms.ncl.ac.uk/view.php?id=11644'>Book Here</a></strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£360<br/><a href='http://forms.ncl.ac.uk/view.php?id=11644'>Book Here</a></strong></span></td>
+<td style="padding: 18px; border-top: 1px solid #ffffff; border-bottom: 1px solid #e0e0e0; border-left: 1px solid #e0e0e0; background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);"><span style="text-decoration: underline;"><strong>£450<br/><a href='http://forms.ncl.ac.uk/view.php?id=11644'>Book Here</a></strong></span></td>
 </tr>
 
 <tr style="text-align: center; padding-left: 20px;">

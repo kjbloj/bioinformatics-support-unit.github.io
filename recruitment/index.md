@@ -18,3 +18,5 @@ This post is part of the Bioinformatics Support Unit but physically located for 
 Tenable for 3 years in the first instance.
 
 Informal enquiries to unit head Dr Simon Cockell: 0191 208 7253; simon.cockell@ncl.ac.uk
+
+To apply, see the links at the foot of this page [vacancies.ncl.ac.uk](https://vacancies.ncl.ac.uk/ViewVacancyV2.aspx?enc=mEgrBL4XQK0+ld8aNkwYmEU9VUPXa7gLedNF/Qp4mASBBQ8I2sQ2KE+ZrpFMBxB1YpPBHYtEC792gu5X5cBSG41s1K3rQPeccd6PM81anhpFdio2ynf/WB8XfKEm1GcwS1mTI5Ix94MHMZanY0Uz6A==)

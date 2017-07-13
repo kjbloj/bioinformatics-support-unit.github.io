@@ -12,6 +12,9 @@ title: "Publications"
 <div id="ref-james_deep_2017">
 <p>James, Katherine, Simon J. Cockell, and Nikolay Zenkin. 2017. &#8220;Deep Sequencing Approaches for the Analysis of Prokaryotic Transcriptional Boundaries and Dynamics.&#8221; <em>Methods (San Diego, Calif.)</em>, April. doi:<a href="https://doi.org/10.1016/j.ymeth.2017.04.016">10.1016/j.ymeth.2017.04.016</a>.</p>
 </div>
+<div id="ref-noble_inhibition_2017">
+<p>Noble, Richard A., Natalie Bell, Helen Blair, Arti Sikka, Huw Thomas, Nicole Phillips, Sirintra Nakjang, Satomi Miwa, Rachel Crossland, Vikki Rand, Despina Televantou, Anna Long, Hector C. Keun, Chris M. Bacon, Simon Bomken, Susan E. Critchlow, and Stephen R. Wedge. 2017. &#8220;Inhibition of Monocarboxylate Transporter 1 by AZD3965 as a Novel Therapeutic Approach for the Treatment of Diffuse Large B-Cell Lymphoma and Burkitt Lymphoma.&#8221; <em>Haematologica</em>, April, haematol.2016.163030. doi:<a href="https://doi.org/10.3324/haematol.2016.163030">10.3324/haematol.2016.163030</a>.</p>
+</div>
 <div id="ref-chan_cytokine-induced_2016">
 <p>Chan, Chun Ming, Christopher D. MacDonald, Gary J. Litherland, David J. Wilkinson, Andrew Skelton, G. Nicholas Europe-Finner, and Andrew D. Rowan. 2016. &#8220;Cytokine-Induced MMP13 Expression in Human Chondrocytes Is Dependent on Activating Transcription Factor 3 (ATF3) Regulation.&#8221; <em>The Journal of Biological Chemistry</em>, December. doi:<a href="https://doi.org/10.1074/jbc.M116.756601">10.1074/jbc.M116.756601</a>.</p>
 </div>

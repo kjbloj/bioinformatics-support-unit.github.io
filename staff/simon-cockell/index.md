@@ -36,6 +36,16 @@ To contact Simon, email [simon.cockell@newcastle.ac.uk][4].
 
 ###Publications
 
+<p>Donadio, Janaina L. S., Marcelo M. Rogero, <b>Simon Cockell</b>, John Hesketh, and Silvia M. F. Cozzolino. 2017. &#8220;Influence of Genetic Variations in Selenoprotein Genes on the Pattern of Gene Expression After Supplementation with Brazil Nuts.&#8221; <em>Nutrients</em> 9 (7). doi:<a href="https://doi.org/10.3390/nu9070739">10.3390/nu9070739</a>.</p>
+
+<p>Elder, A, S Bomken, I Wilson, H J Blair, <b>S Cockell</b>, F Ponthan, K Dormon, D Pal, O Heidenreich, and J Vormoor. 2017. &#8220;Abundant and Equipotent Founder Cells Establish and Maintain Acute Lymphoblastic Leukaemia.&#8221; <em>Leukemia</em>, May. doi:<a href="https://doi.org/10.1038/leu.2017.140">10.1038/leu.2017.140</a>.</p>
+
+<p>James, Katherine, <b>Simon J. Cockell</b>, and Nikolay Zenkin. 2017. &#8220;Deep Sequencing Approaches for the Analysis of Prokaryotic Transcriptional Boundaries and Dynamics.&#8221; <em>Methods (San Diego, Calif.)</em>, April. doi:<a href="https://doi.org/10.1016/j.ymeth.2017.04.016">10.1016/j.ymeth.2017.04.016</a>.</p>
+ 
+<p>James, Katherine, Pamela Gamba, <b>Simon J. Cockell</b>, and Nikolay Zenkin. 2016. &#8220;Misincorporation by RNA Polymerase Is a Major Source of Transcription Pausing in Vivo.&#8221; <em>Nucleic Acids Research</em>, October, gkw969. doi:<a href="https://doi.org/10.1093/nar/gkw969">10.1093/nar/gkw969</a>.</p>
+ 
+<p>M&#233;plan, Catherine, Ian T. Johnson, Abigael C. J. Polley, <b>Simon Cockell</b>, David M. Bradburn, Daniel M. Commane, Ramesh P. Arasaradnam, Francis Mulholland, Anze Zupanic, John C. Mathers, and John Hesketh. 2016. &#8220;Transcriptomics and Proteomics Show That Selenium Affects Inflammation, Cytoskeleton, and Cancer Pathways in Human Rectal Biopsies.&#8221; <em>FASEB Journal: Official Publication of the Federation of American Societies for Experimental Biology</em>, April. doi:<a href="https://doi.org/10.1096/fj.201600251R">10.1096/fj.201600251R</a>.</p>
+
 <p>Moles, A., J. A. Butterworth, A. Sanchez, J. E. Hunter, J. Leslie, H. Sellier, D. Tiniakos, <b>S. J. Cockell</b>, D. A. Mann, F. Oakley, and N. D. Perkins. 2016. &#8220;A RelA(P65) Thr505 Phospho-Site Mutation Reveals an Important Mechanism Regulating NF-&#922;B-Dependent Liver Regeneration and Cancer.&#8221; <em>Oncogene</em>, February. doi:<a href="http://dx.doi.org/10.1038/onc.2015.526">10.1038/onc.2015.526</a>.</p>
 
 <p>Hardyman, Joy, John Tyson, Kelly Jackson, Christine Aldridge, <b>Simon Cockell</b>, Luisa Wakeling, Ruth A. Valentine, and Dianne Ford. 2016. &#8220;Zinc Sensing by Metal-Responsive Transcription Factor 1 (MTF1) Controls Metallothionein and ZnT1 Expression to Buffer the Sensitivity of the Transcriptome Response to Zinc.&#8221; <em>Metallomics</em>, January. doi:<a href="http://dx.doi.org/10.1039/C5MT00305A">10.1039/C5MT00305A</a>.</p>

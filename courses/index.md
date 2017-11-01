@@ -2,17 +2,19 @@
 layout: default
 title: "Courses"
 ---
-See the foot of the page for <a href="#general">general information</a> such as pricing and how to book.
 
-###<a id="cli">Command Line Bioinformatics and High-throughput Sequencing Analysis</a>
+###<a id="cli">Introduction to Practical Bioinformatics and RNA-Seq Analysis</a>
 
-**April 4th - 6th 2017**
+**November 28th - 30th 2017**
 
 This course is supported by a BBSRC Strategic Training Award for Research Skills. It is therefore offered **free of charge** to Newcastle University and BBSRC-funded researchers.
 
 <img src="{{ site.baseurl }}/images/STARS.jpg" style="display: block; margin-left: auto; margin-right: auto">
 
 
+**This course is fully booked. To register your interest in future courses, please fill in the form on <a href='https://workshops.ncl.ac.uk/view/interest/modal/39611/'>the workshop page</a>.
+
+<!--
 Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
 
 ###Course Schedule
@@ -51,10 +53,13 @@ Many powerful bioinformatics applications do not come packaged with an easy-to-u
 	<li>Tools for RNA-Seq Analysis</li>
 	<li>Batch processing with High-Performance Computing</li>
 </ul>
+-->
 
 ###<a id="bioc">Bioconductor</a>
 
-####May 16th - 20th 2016
+####Date TDB
+
+Please contact <a href='https://www.jumpingrivers.com'>Jumping Rivers</a> if you are interested in this course.
 
 **Course outline**:
 
@@ -62,6 +67,7 @@ This is a five day intensive course on R and Bioconductor. The course will be a 
 
 No prior programming knowledge of any kind is assumed.
 
+<!--
 **Course structure:**
 
 This course will be structured as follows:
@@ -119,9 +125,8 @@ This course will be structured as follows:
 	<li>John Casement, Newcastle Bioinformatics Support Unit</li>
 </ul>
 
-<!--a title="Book on-line" href="http://www.ncl.ac.uk/maths/rcourse/#registration">Book your place here.</a-->
-
-
+-->
+<!--
 <a id='general'></a>
 <h3>Booking</h3>
 Spaces can be reserved for the High Throughput Sequence Analysis course by clicking on the links in the table below, spaces on all other courses and for external people can be reserved by emailing <a href="mailto:simon.cockell@ncl.ac.uk">Simon Cockell</a>. The Bioconductor course is booked via the school of Mathematics and Statistics.  All courses are subject to a fee.
@@ -167,7 +172,7 @@ Sequence Analysis<br/>
 
 </tbody>
 </table>
-
+-->
 ####Cancellations
 
 #####Command Line

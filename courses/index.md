@@ -12,7 +12,7 @@ This course is supported by a BBSRC Strategic Training Award for Research Skills
 <img src="{{ site.baseurl }}/images/STARS.jpg" style="display: block; margin-left: auto; margin-right: auto">
 
 
-**This course is fully booked. To register your interest in future courses, please fill in the form on <a href='https://workshops.ncl.ac.uk/view/interest/modal/39611/'>the workshop page</a>.
+**This course is fully booked. To register your interest in future courses, please fill in the form on <a href='https://workshops.ncl.ac.uk/view/interest/modal/39611/'>the workshop page</a>.**
 
 <!--
 Many powerful bioinformatics applications do not come packaged with an easy-to-use graphical user interface. Since many people are unfamiliar and uncomfortable with the command-line interface that is necessary to get such applications to work, they are unable to unlock the full potential of the valuable data they are generating. The aim of this course is to enable scientists with no prior exposure to a command-line interface to get up and running with this kind of work, and provide them with the fundamentals to use any command-line application. We will start from the basics (not assuming any prior knowledge), and will move through popular bioinformatics tools such as BLAST. The second and third days of the course will focus on tools for the analysis of high-throughput (or "next generation") sequencing data.
@@ -173,6 +173,7 @@ Sequence Analysis<br/>
 </tbody>
 </table>
 -->
+
 ####Cancellations
 
 #####Command Line
